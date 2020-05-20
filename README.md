@@ -7,3 +7,4 @@ This project will be useful for Tamilians who want to search and get the web res
 - To type in Tamil, type English phonetic equivalent. Ex: thamiz --> தமிழ். While typing in the search box, you will get the key help above the search box. 
 - You can also type in English in the search box using the language toggle button.
 - Check the image given below for reference.
+[![How to use Tamil Search Engine](https://img.techpowerup.org/200520/how-to-use-explanation.jpg "How to use Tamil Search Engine")](https://search.tamilpriyan.com/ "How to use Tamil Search Engine")
